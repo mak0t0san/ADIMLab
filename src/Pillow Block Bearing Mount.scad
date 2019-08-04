@@ -1,9 +1,12 @@
-$fn=200;
+
+// The thickness of the mount
 thickness=5;
 
+/* [Hidden] */
 w=35.89;
 h=55;
 r=5;
+$fn=200;
 
 module base(){
   grow=17;
